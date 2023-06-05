@@ -7,6 +7,14 @@ sudo apt install git -f \
 && ssh-keygen -t rsa -b 4096 -C "fokin051990@gmail.com" \
 && cat ~/.ssh/id_rsa.pub
 ```
+## Install JDK (Option available on Idea)
+ - download any version of JDK for Intellij IDEA
+
+## Install maven
+```
+sudo apt install maven
+```
+
 ## Install docker
 ```
 sudo apt install apt-transport-https ca-certificates curl software-properties-common
