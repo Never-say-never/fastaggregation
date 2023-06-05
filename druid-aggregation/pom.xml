@@ -8,14 +8,14 @@
 		<version>3.1.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.fastaggrigation</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>com.fastaggregation</groupId>
+	<artifactId>druid-aggregation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+
 	<properties>
-		<java.version>20</java.version>
+		<java.version>17</java.version>
 	</properties>
+	
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
