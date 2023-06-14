@@ -1,0 +1,103 @@
+{
+  "schemaName": "SimpleDataTable1",
+  "dimensionFieldSpecs": [
+    {
+      "name": "name",
+      "dataType": "STRING"
+    },
+    {
+      "name": "surname",
+      "dataType": "STRING"
+    }
+  ],
+  "metricFieldSpecs": [
+    {
+      "name": "val0",
+      "dataType": "LONG"
+    },
+    {
+      "name": "val1",
+      "dataType": "LONG"
+    },
+    {
+      "name": "val2",
+      "dataType": "LONG"
+    },
+    {
+      "name": "val3",
+      "dataType": "LONG"
+    },
+    {
+      "name": "val4",
+      "dataType": "LONG"
+    },
+    {
+      "name": "val5",
+      "dataType": "LONG"
+    },
+    {
+      "name": "val6",
+      "dataType": "LONG"
+    },
+    {
+      "name": "val7",
+      "dataType": "LONG"
+    },
+    {
+      "name": "val8",
+      "dataType": "LONG"
+    },
+    {
+      "name": "val9",
+      "dataType": "LONG"
+    },
+    {
+      "name": "aggrVal0",
+      "dataType": "DOUBLE"
+    },
+    {
+      "name": "aggrVal1",
+      "dataType": "DOUBLE"
+    },
+    {
+      "name": "aggrVal2",
+      "dataType": "DOUBLE"
+    },
+    {
+      "name": "aggrVal3",
+      "dataType": "DOUBLE"
+    },
+    {
+      "name": "aggrVal4",
+      "dataType": "DOUBLE"
+    },
+    {
+      "name": "aggrVal5",
+      "dataType": "DOUBLE"
+    },
+    {
+      "name": "aggrVal6",
+      "dataType": "DOUBLE"
+    },
+    {
+      "name": "aggrVal7",
+      "dataType": "DOUBLE"
+    },
+    {
+      "name": "aggrVal8",
+      "dataType": "DOUBLE"
+    },
+    {
+      "name": "aggrVal9",
+      "dataType": "DOUBLE"
+    }
+  ],
+  "dateTimeFieldSpecs": [
+    {
+      "name": "timestamp",
+      "dataType": "LONG",
+      "format": "1:MILLISECONDS:EPOCH",
+      "granularity": "1:MILLISECONDS"
+    }
+  ]
+}
